@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, my name is Alfred </h1>
-
-  <img align="right" width="150" alt="GIF" src="https://thumbs.gfycat.com/YearlyLoneBarnowl.webp"/>
+<img width="100%" alt="Alfred" src="./cover.png"/>
+<img align="right" width="150" alt="GIF" src="https://thumbs.gfycat.com/YearlyLoneBarnowl.webp"/>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Web dev projects** 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Native apps development**
@@ -8,10 +8,6 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/AlfredRezk) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Coding is Fun**
-
-<br/>
-<br/>
-
 
 ## Languages and Tools 
 <br>
@@ -59,5 +55,4 @@
 <div align="right">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </div>
 
-#
 
