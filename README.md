@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, my name is Alfred </h1>
+<h3 align="center"> Hi there 👋, my name is Alfred </h3>
 <img width="100%" alt="Alfred" src="./cover.png"/>
 <img align="right" width="150" alt="GIF" src="https://thumbs.gfycat.com/YearlyLoneBarnowl.webp"/>
 
