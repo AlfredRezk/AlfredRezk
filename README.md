@@ -1,5 +1,5 @@
 <h3 align="center"> Hi there 👋, my name is Alfred </h3>
-<img width="100%" alt="Alfred" src="./cover.png"/>
+<img width="100%" alt="Alfred" src="./banner.png"/>
 <img align="right" width="150" alt="GIF" src="https://thumbs.gfycat.com/YearlyLoneBarnowl.webp"/>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Web dev projects** 
